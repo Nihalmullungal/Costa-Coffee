@@ -43,7 +43,11 @@ header{
         height: 50vh;
     }
 }
-
+@media(max-width:310px){
+    header{
+        height: 10vh;
+    }
+}
 .navbar-light .navbar-brand img
 {
    height: 10vh;
