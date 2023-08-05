@@ -43,9 +43,9 @@ header{
         height: 50vh;
     }
 }
-@media(max-width:310px){
+@media(max-width:350px){
     header{
-        height: 10vh;
+        height: 1vh;
     }
 }
 .navbar-light .navbar-brand img
