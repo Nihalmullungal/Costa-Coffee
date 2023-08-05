@@ -94,7 +94,7 @@ header{
     height: 40%;
     display: block;
     /* align-items: center; */
-    vertical-align: middle;
+    /* vertical-align: middle; */
     padding: 5% 0;
 }
 .ftr-2 p{
